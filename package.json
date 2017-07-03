@@ -1,0 +1,13 @@
+{
+  "name": "mongo-graph",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/heineiuo/mongo-graph",
+  "author": "heineiuo <heineiuo@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "joi": "^10.6.0",
+    "lodash": "^4.17.4",
+    "mongodb": "^2.2.29"
+  }
+}
